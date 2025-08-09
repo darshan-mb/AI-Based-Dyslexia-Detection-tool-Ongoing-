@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+numpy==1.24.4
+tensorflow==2.13.0
